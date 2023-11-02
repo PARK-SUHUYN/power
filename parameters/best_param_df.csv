@@ -1,0 +1,131 @@
+bp,model,flag
+"{'depth': 6, 'learning_rate': 0.3, 'n_estimators': 100}",<catboost.core.CatBoostRegressor object at 0x7f23350c10c0>,3
+"{'max_depth': 10, 'min_samples_split': 5}",ExtraTreeRegressor(random_state=42),4
+"{'learning_rate': 0.1, 'max_depth': 15, 'n_estimators': 100, 'subsample': 0.8}","XGBRegressor(base_score=None, booster=None, callbacks=None,
+             colsample_bylevel=None, colsample_bynode=None,
+             colsample_bytree=None, early_stopping_rounds=None,
+             enable_categorical=False, eval_metric=None, feature_types=None,
+             gamma=None, gpu_id=None, grow_policy=None, importance_type=None,
+             interaction_constraints=None, learning_rate=None, max_bin=None,
+             max_cat_threshold=None, max_cat_to_onehot=None,
+             max_delta_step=None, max_depth=None, max_leaves=None,
+             min_child_weight=None, missing=nan, monotone_constraints=None,
+             n_estimators=100, n_jobs=None, num_parallel_tree=None,
+             predictor=None, random_state=42, ...)",1
+"{'learning_rate': 0.1, 'max_depth': 10, 'n_estimators': 100, 'subsample': 0.5}",LGBMRegressor(random_state=42),2
+"{'learning_rate': 0.1, 'max_depth': 7, 'n_estimators': 100, 'subsample': 0.8}","XGBRegressor(base_score=None, booster=None, callbacks=None,
+             colsample_bylevel=None, colsample_bynode=None,
+             colsample_bytree=None, early_stopping_rounds=None,
+             enable_categorical=False, eval_metric=None, feature_types=None,
+             gamma=None, gpu_id=None, grow_policy=None, importance_type=None,
+             interaction_constraints=None, learning_rate=None, max_bin=None,
+             max_cat_threshold=None, max_cat_to_onehot=None,
+             max_delta_step=None, max_depth=None, max_leaves=None,
+             min_child_weight=None, missing=nan, monotone_constraints=None,
+             n_estimators=100, n_jobs=None, num_parallel_tree=None,
+             predictor=None, random_state=42, ...)",1
+"{'learning_rate': 0.1, 'max_depth': 10, 'n_estimators': 100, 'subsample': 0.5}",LGBMRegressor(random_state=42),2
+"{'depth': 6, 'learning_rate': 0.3, 'n_estimators': 100}",<catboost.core.CatBoostRegressor object at 0x7f23412fbcd0>,3
+"{'learning_rate': 0.1, 'max_depth': 10, 'n_estimators': 100, 'subsample': 0.5}",LGBMRegressor(random_state=42),2
+"{'depth': 10, 'learning_rate': 0.3, 'n_estimators': 100}",<catboost.core.CatBoostRegressor object at 0x7f2340f6c9d0>,3
+"{'depth': 10, 'learning_rate': 0.1, 'n_estimators': 100}",<catboost.core.CatBoostRegressor object at 0x7f234d6ffeb0>,3
+"{'learning_rate': 0.1, 'max_depth': 15, 'n_estimators': 100, 'subsample': 0.5}",LGBMRegressor(random_state=42),2
+"{'learning_rate': 0.1, 'max_depth': 15, 'n_estimators': 100, 'subsample': 0.5}",LGBMRegressor(random_state=42),2
+"{'learning_rate': 0.1, 'max_depth': 15, 'n_estimators': 100, 'subsample': 0.5}",LGBMRegressor(random_state=42),2
+"{'depth': 6, 'learning_rate': 0.3, 'n_estimators': 100}",<catboost.core.CatBoostRegressor object at 0x7f232ee2c3a0>,3
+"{'depth': 10, 'learning_rate': 0.1, 'n_estimators': 100}",<catboost.core.CatBoostRegressor object at 0x7f232f88fd60>,3
+"{'depth': 6, 'learning_rate': 0.3, 'n_estimators': 100}",<catboost.core.CatBoostRegressor object at 0x7f232f444e50>,3
+"{'learning_rate': 0.1, 'max_depth': 7, 'n_estimators': 100, 'subsample': 0.5}",LGBMRegressor(random_state=42),2
+"{'learning_rate': 0.1, 'max_depth': 10, 'n_estimators': 100, 'subsample': 0.5}",LGBMRegressor(random_state=42),2
+"{'depth': 6, 'learning_rate': 0.3, 'n_estimators': 100}",<catboost.core.CatBoostRegressor object at 0x7f2340f426b0>,3
+"{'learning_rate': 0.1, 'max_depth': 15, 'n_estimators': 100, 'subsample': 0.5}",LGBMRegressor(random_state=42),2
+"{'learning_rate': 0.1, 'max_depth': 10, 'n_estimators': 100, 'subsample': 0.5}",LGBMRegressor(random_state=42),2
+"{'learning_rate': 0.1, 'max_depth': 15, 'n_estimators': 100, 'subsample': 0.5}",LGBMRegressor(random_state=42),2
+"{'learning_rate': 0.1, 'max_depth': 15, 'n_estimators': 100, 'subsample': 0.5}",LGBMRegressor(random_state=42),2
+"{'depth': 6, 'learning_rate': 0.3, 'n_estimators': 100}",<catboost.core.CatBoostRegressor object at 0x7f234db3f070>,3
+"{'learning_rate': 0.1, 'max_depth': 15, 'n_estimators': 100, 'subsample': 0.5}",LGBMRegressor(random_state=42),2
+"{'max_depth': 15, 'min_samples_split': 2}",ExtraTreeRegressor(random_state=42),4
+"{'depth': 6, 'learning_rate': 0.3, 'n_estimators': 100}",<catboost.core.CatBoostRegressor object at 0x7f234d9f48b0>,3
+"{'depth': 10, 'learning_rate': 0.1, 'n_estimators': 100}",<catboost.core.CatBoostRegressor object at 0x7f232fe12890>,3
+"{'learning_rate': 0.1, 'max_depth': 10, 'n_estimators': 100, 'subsample': 0.5}",LGBMRegressor(random_state=42),2
+"{'depth': 10, 'learning_rate': 0.3, 'n_estimators': 100}",<catboost.core.CatBoostRegressor object at 0x7f233e1b1b70>,3
+"{'depth': 10, 'learning_rate': 0.1, 'n_estimators': 100}",<catboost.core.CatBoostRegressor object at 0x7f234acd27a0>,3
+"{'learning_rate': 0.1, 'max_depth': 7, 'n_estimators': 100, 'subsample': 0.8}","XGBRegressor(base_score=None, booster=None, callbacks=None,
+             colsample_bylevel=None, colsample_bynode=None,
+             colsample_bytree=None, early_stopping_rounds=None,
+             enable_categorical=False, eval_metric=None, feature_types=None,
+             gamma=None, gpu_id=None, grow_policy=None, importance_type=None,
+             interaction_constraints=None, learning_rate=None, max_bin=None,
+             max_cat_threshold=None, max_cat_to_onehot=None,
+             max_delta_step=None, max_depth=None, max_leaves=None,
+             min_child_weight=None, missing=nan, monotone_constraints=None,
+             n_estimators=100, n_jobs=None, num_parallel_tree=None,
+             predictor=None, random_state=42, ...)",1
+"{'learning_rate': 0.1, 'max_depth': 15, 'n_estimators': 100, 'subsample': 0.5}",LGBMRegressor(random_state=42),2
+"{'learning_rate': 0.1, 'max_depth': 15, 'n_estimators': 100, 'subsample': 0.5}",LGBMRegressor(random_state=42),2
+"{'learning_rate': 0.1, 'max_depth': 7, 'n_estimators': 100, 'subsample': 0.8}","XGBRegressor(base_score=None, booster=None, callbacks=None,
+             colsample_bylevel=None, colsample_bynode=None,
+             colsample_bytree=None, early_stopping_rounds=None,
+             enable_categorical=False, eval_metric=None, feature_types=None,
+             gamma=None, gpu_id=None, grow_policy=None, importance_type=None,
+             interaction_constraints=None, learning_rate=None, max_bin=None,
+             max_cat_threshold=None, max_cat_to_onehot=None,
+             max_delta_step=None, max_depth=None, max_leaves=None,
+             min_child_weight=None, missing=nan, monotone_constraints=None,
+             n_estimators=100, n_jobs=None, num_parallel_tree=None,
+             predictor=None, random_state=42, ...)",1
+"{'learning_rate': 0.1, 'max_depth': 15, 'n_estimators': 100, 'subsample': 0.5}",LGBMRegressor(random_state=42),2
+"{'learning_rate': 0.1, 'max_depth': 15, 'n_estimators': 100, 'subsample': 0.5}",LGBMRegressor(random_state=42),2
+"{'depth': 6, 'learning_rate': 0.3, 'n_estimators': 100}",<catboost.core.CatBoostRegressor object at 0x7f2334718730>,3
+"{'depth': 10, 'learning_rate': 0.1, 'n_estimators': 100}",<catboost.core.CatBoostRegressor object at 0x7f233515cdf0>,3
+"{'depth': 6, 'learning_rate': 0.3, 'n_estimators': 100}",<catboost.core.CatBoostRegressor object at 0x7f234acd2590>,3
+"{'learning_rate': 0.1, 'max_depth': 7, 'n_estimators': 100, 'subsample': 0.5}",LGBMRegressor(random_state=42),2
+"{'depth': 6, 'learning_rate': 0.3, 'n_estimators': 100}",<catboost.core.CatBoostRegressor object at 0x7f23350c10f0>,3
+"{'learning_rate': 0.1, 'max_depth': 10, 'n_estimators': 100, 'subsample': 0.5}",LGBMRegressor(random_state=42),2
+"{'depth': 6, 'learning_rate': 0.3, 'n_estimators': 100}",<catboost.core.CatBoostRegressor object at 0x7f234dd73b50>,3
+"{'depth': 10, 'learning_rate': 0.1, 'n_estimators': 100}",<catboost.core.CatBoostRegressor object at 0x7f232efbbee0>,3
+"{'learning_rate': 0.1, 'max_depth': 10, 'n_estimators': 100, 'subsample': 0.8}","XGBRegressor(base_score=None, booster=None, callbacks=None,
+             colsample_bylevel=None, colsample_bynode=None,
+             colsample_bytree=None, early_stopping_rounds=None,
+             enable_categorical=False, eval_metric=None, feature_types=None,
+             gamma=None, gpu_id=None, grow_policy=None, importance_type=None,
+             interaction_constraints=None, learning_rate=None, max_bin=None,
+             max_cat_threshold=None, max_cat_to_onehot=None,
+             max_delta_step=None, max_depth=None, max_leaves=None,
+             min_child_weight=None, missing=nan, monotone_constraints=None,
+             n_estimators=100, n_jobs=None, num_parallel_tree=None,
+             predictor=None, random_state=42, ...)",1
+"{'learning_rate': 0.1, 'max_depth': 10, 'n_estimators': 100, 'subsample': 0.5}",LGBMRegressor(random_state=42),2
+"{'depth': 6, 'learning_rate': 0.3, 'n_estimators': 100}",<catboost.core.CatBoostRegressor object at 0x7f234ad3efb0>,3
+"{'depth': 6, 'learning_rate': 0.3, 'n_estimators': 100}",<catboost.core.CatBoostRegressor object at 0x7f234129dc60>,3
+"{'learning_rate': 0.1, 'max_depth': 7, 'n_estimators': 100, 'subsample': 0.8}","XGBRegressor(base_score=None, booster=None, callbacks=None,
+             colsample_bylevel=None, colsample_bynode=None,
+             colsample_bytree=None, early_stopping_rounds=None,
+             enable_categorical=False, eval_metric=None, feature_types=None,
+             gamma=None, gpu_id=None, grow_policy=None, importance_type=None,
+             interaction_constraints=None, learning_rate=None, max_bin=None,
+             max_cat_threshold=None, max_cat_to_onehot=None,
+             max_delta_step=None, max_depth=None, max_leaves=None,
+             min_child_weight=None, missing=nan, monotone_constraints=None,
+             n_estimators=100, n_jobs=None, num_parallel_tree=None,
+             predictor=None, random_state=42, ...)",1
+"{'learning_rate': 0.1, 'max_depth': 15, 'n_estimators': 100, 'subsample': 0.5}",LGBMRegressor(random_state=42),2
+"{'learning_rate': 0.1, 'max_depth': 15, 'n_estimators': 100, 'subsample': 0.5}",LGBMRegressor(random_state=42),2
+"{'learning_rate': 0.1, 'max_depth': 15, 'n_estimators': 100, 'subsample': 0.8}","XGBRegressor(base_score=None, booster=None, callbacks=None,
+             colsample_bylevel=None, colsample_bynode=None,
+             colsample_bytree=None, early_stopping_rounds=None,
+             enable_categorical=False, eval_metric=None, feature_types=None,
+             gamma=None, gpu_id=None, grow_policy=None, importance_type=None,
+             interaction_constraints=None, learning_rate=None, max_bin=None,
+             max_cat_threshold=None, max_cat_to_onehot=None,
+             max_delta_step=None, max_depth=None, max_leaves=None,
+             min_child_weight=None, missing=nan, monotone_constraints=None,
+             n_estimators=100, n_jobs=None, num_parallel_tree=None,
+             predictor=None, random_state=42, ...)",1
+"{'depth': 6, 'learning_rate': 0.3, 'n_estimators': 100}",<catboost.core.CatBoostRegressor object at 0x7f23fc918310>,3
+"{'max_depth': 10, 'min_samples_split': 9}",ExtraTreeRegressor(random_state=42),4
+"{'depth': 10, 'learning_rate': 0.1, 'n_estimators': 100}",<catboost.core.CatBoostRegressor object at 0x7f2340fd9ab0>,3
+"{'depth': 6, 'learning_rate': 0.3, 'n_estimators': 100}",<catboost.core.CatBoostRegressor object at 0x7f233510c4f0>,3
+"{'depth': 6, 'learning_rate': 0.3, 'n_estimators': 100}",<catboost.core.CatBoostRegressor object at 0x7f232f9ea290>,3
+"{'depth': 6, 'learning_rate': 0.05, 'n_estimators': 100}",<catboost.core.CatBoostRegressor object at 0x7f2340d9ee30>,3
+"{'depth': 10, 'learning_rate': 0.3, 'n_estimators': 100}",<catboost.core.CatBoostRegressor object at 0x7f234ad3cd90>,3
